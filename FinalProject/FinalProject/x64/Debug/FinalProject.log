@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  Box.cpp
+  FinalProject.cpp
+c:\users\dakot\documents\coding\cplusplus\finalproject\finalproject\finalproject\finalproject.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\dakot\documents\coding\cplusplus\finalproject\finalproject\finalproject\finalproject.cpp(46): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\dakot\documents\coding\cplusplus\finalproject\finalproject\finalproject\finalproject.cpp(47): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\dakot\documents\coding\cplusplus\finalproject\finalproject\finalproject\finalproject.cpp(48): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\dakot\documents\coding\cplusplus\finalproject\finalproject\finalproject\finalproject.cpp(55): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\dakot\documents\coding\cplusplus\finalproject\finalproject\finalproject\finalproject.cpp(56): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Particle.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_math_defines.h(22): warning C4005: 'M_PI': macro redefinition
+  c:\users\dakot\documents\coding\cplusplus\finalproject\finalproject\sdl2_libs\lib's\include\sdl_stdinc.h(499): note: see previous definition of 'M_PI'
+  Screen.cpp
+  Swarm.cpp
+  Generating Code...
+  FinalProject.vcxproj -> C:\Users\dakot\Documents\Coding\CPlusPlus\FinalProject\FinalProject\x64\Debug\FinalProject.exe
